@@ -1,0 +1,21 @@
+DEPART_CITY,ARRIVE_CITY
+Denver,Frankfurt
+Frankfurt,Denver
+London,Denver
+Los Angeles,Denver
+Paris,Denver
+Portland,Denver
+San Francisco,Denver
+Seattle,Denver
+Sydney,Denver
+Zurich,Denver
+Denver,London
+Frankfurt,London
+London,Denver
+Los Angeles,London
+Paris,London
+Portland,London
+San Francisco,London
+Seattle,London
+Sydney,London
+Zurich,London
